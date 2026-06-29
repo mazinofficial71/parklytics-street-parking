@@ -1,0 +1,3 @@
+timestamp,lat,lng,event_type,road_name
+2026-03-14T23:55:00Z,11.2648,75.7681,parking_detected,Main Beach Road
+2026-03-14T23:55:00Z,11.2588,75.7804,bluetooth_disconnect,Joseph Road
